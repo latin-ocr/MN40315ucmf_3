@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40315ucmf_3_0008.png"; bbox 0 0 2429 3408; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 202 512 1211 867">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 202 512 1211 867">
+     <span class='ocr_line' id='line_1_1' title="bbox 202 512 1211 867; baseline -0.009 -61"><span class='ocrx_word' id='word_1_1' title='bbox 202 512 1092 867; x_wconf 74' lang='lat' dir='ltr'><strong>Gensiehen,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1209 566 1211 568; x_wconf 0' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 195 1449 1215 1818">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 195 1449 1215 1818">
+     <span class='ocr_line' id='line_1_2' title="bbox 195 1449 1215 1818; baseline 0.013 -90"><span class='ocrx_word' id='word_1_3' title='bbox 195 1460 422 1734; x_wconf 85' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_4' title='bbox 490 1449 1215 1818; x_wconf 78' lang='lat' dir='ltr'>Scriptua</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 192 1953 1073 2283">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 192 1953 1073 2283">
+     <span class='ocr_line' id='line_1_3' title="bbox 192 1953 1073 2283; baseline 0.007 -86"><span class='ocrx_word' id='word_1_5' title='bbox 192 1953 858 2283; x_wconf 74' lang='lat' dir='ltr'>vesugns</span> <span class='ocrx_word' id='word_1_6' title='bbox 922 2012 1073 2203; x_wconf 84' lang='lat' dir='ltr'>m</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1220 3408">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1220 3408">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 3408; baseline 0 7"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1220 3408; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 191 2847 1215 3214">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 191 2847 1215 3214">
+     <span class='ocr_line' id='line_1_5' title="bbox 191 2847 1215 3214; baseline 0.016 -85"><span class='ocrx_word' id='word_1_8' title='bbox 191 2847 979 3214; x_wconf 75' lang='lat' dir='ltr'>Gryphiae‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 1065 2865 1215 3142; x_wconf 82' lang='lat'>1·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
